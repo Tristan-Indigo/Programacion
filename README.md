@@ -10,3 +10,4 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio1.java](/Tema1/Ejercicio1.java) | Tercer programa de java. Usamos printf para formatear la salida |
 | [Ejercicio2.java](/Tema1/Ejercicio2.java) | Cuarto programa de java. Mostramos nuestro nombre por pantalla |
 | [Ejercicio3.java](/Tema1/Ejercicio3.java) | Quinto programa de java. Mostramos nuestro nombre, dirección y numero de telefono por pantalla |
+| [Ejercicio4.java](/Tema1/Ejercicio4.java) | Sexto programa de java. Mostramos 10 palabras en inglés junto a su correspondiente traducción al castellano |
