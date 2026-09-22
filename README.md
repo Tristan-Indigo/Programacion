@@ -1,7 +1,7 @@
 # Programación
 Repositorio del módulo de programación de DAW
 
-## TEMA1-HTML
+## TEMA1-Introducción a las computadoras, a los programas y Java
 
 | Ejercicio | Descripción |
 | --------- | ----------- |
