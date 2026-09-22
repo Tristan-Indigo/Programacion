@@ -9,3 +9,4 @@ Repositorio del módulo de programación de DAW
 | [Bye.java](/Tema1/bye.java) | Segundo programa de java. Muestra un mensaje de despedida |
 | [Ejercicio1.java](/Tema1/Ejercicio1.java) | Tercer programa de java. Usamos printf para formatear la salida |
 | [Ejercicio2.java](/Tema1/Ejercicio2.java) | Cuarto programa de java. Mostramos nuestro nombre por pantalla |
+| [Ejercicio3.java](/Tema1/Ejercicio3.java) | Quinto programa de java. Mostramos nuestro nombre, dirección y numero de telefono por pantalla |
