@@ -1,7 +1,7 @@
 # Programación
 Repositorio del módulo de programación de DAW
 
-## [TEMA1-Introducción a las computadoras, a los programas y Java](/Tema1)
+## TEMA1-Introducción a las computadoras, a los programas y Java
 
 | Ejercicio | Descripción |
 | --------- | ----------- |
@@ -13,7 +13,7 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio4.java](/Tema1/Ejercicio4.java) | Sexto programa de java. Mostramos 10 palabras en inglés junto a su correspondiente traducción al castellano |
 | [Ejercicio5.java](/Tema1/Ejercicio5.java) | Séptimo programa de java. Mostramos el horario de clase |
 
-## [TEMA2-Programacion Elemental](/Tema2)
+## TEMA2-Programacion Elemental
 
 | Ejercicio | Descripción |
 | --------- | ----------- |
