@@ -17,4 +17,4 @@ Repositorio del módulo de programación de DAW
 
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| ? | ? |
+| N/A | N/A |
