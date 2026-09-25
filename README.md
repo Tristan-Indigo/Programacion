@@ -17,4 +17,4 @@ Repositorio del módulo de programación de DAW
 
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| N/A | N/A |
+| [CalculaMinutos.java](/Tema2/calculaMinutos.java) | Programa para calcular los minutos |
