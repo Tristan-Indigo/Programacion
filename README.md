@@ -18,4 +18,4 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [CalculaMinutos.java](/Tema2/calculaMinutos.java) | Programa para calcular los minutos |
-| [conversionTemperaturas.java](/Tema2/conversionTemperaturas.java) | Programa para calcular la temperatura |
+| [ConversionTemperaturas.java](/Tema2/conversionTemperaturas.java) | Programa para calcular la temperatura |
