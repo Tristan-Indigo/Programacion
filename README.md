@@ -21,3 +21,5 @@ Repositorio del módulo de programación de DAW
 | [ConversionTemperaturas.java](/Tema2/conversionTemperaturas.java) | Programa para calcular la temperatura |
 | [Ejercicio1.java](/Tema2/Ejercicio1.java) | Programa para calcular el salario semanal de una persona que gana 12 euros al dia |
 | [Ejercicio2.java](/Tema2/Ejercicio2.java) | Programa para calcular el volumen de un cono |
+| [Ejercicio3.java](/Tema2/Ejercicio3.java) | Programa para pasar de Megabytes a Kilobytes |
+| [Ejercicio4.java](/Tema2/Ejercicio4.java) | Programa para pasar de Kilobytes a Megabytes |
