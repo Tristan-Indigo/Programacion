@@ -20,3 +20,4 @@ Repositorio del módulo de programación de DAW
 | [CalculaMinutos.java](/Tema2/calculaMinutos.java) | Programa para calcular los minutos |
 | [ConversionTemperaturas.java](/Tema2/conversionTemperaturas.java) | Programa para calcular la temperatura |
 | [Ejercicio1.java](/Tema2/Ejercicio1.java) | Programa para calcular el salario semanal de una persona que gana 12 euros al dia |
+| [Ejercicio2.java](/Tema2/Ejercicio2.java) | Programa para calcular el volumen de un cono |
