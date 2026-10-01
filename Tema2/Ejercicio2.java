@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class Ejercicio2 {
     public static void main(String[] args) {
-        double radio = 0;
-        double altura = 0;
-        double volumen = 0;
+        double radio = 0.0;
+        double altura = 0.0;
+        double volumen = 0.0;
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca el radio del cono: ");
         radio = sc.nextDouble();
