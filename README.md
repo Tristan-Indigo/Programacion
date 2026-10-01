@@ -24,4 +24,7 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio3.java](/Tema2/Ejercicio3.java) | Programa para pasar de Megabytes a Kilobytes |
 | [Ejercicio4.java](/Tema2/Ejercicio4.java) | Programa para pasar de Kilobytes a Megabytes |
 | [Ejercicio5.java](/Tema2/Ejercicio5.java) | Programa para pasar de binario a decimal (no completado) |
+### Evaluar expresiones
+| Ejercicio | Descripción |
+| --------- | ----------- |
 | [Actividad1.java](/Tema2/Evaluar_expresiones/Actividad1.java) | (no completado) |
