@@ -27,4 +27,4 @@ Repositorio del módulo de programación de DAW
 ### Evaluar expresiones
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [Actividad1.java](/Tema2/Evaluar_expresiones/Actividad1.java) | (no completado) |
+| [Actividad1.java](/Tema2/Evaluar_expresiones/Actividad1.java) | Declarar varias expresiones (no completado) |
