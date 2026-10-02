@@ -22,19 +22,19 @@ public class Actividad1 {
     c = 1.0;
     resultado = (((b + c)/2 * a + 10) * 3 * b) - 6;
     System.out.println("El resultado del apartado 'd' es: " + resultado);
+    /*
     //e)
     a = 4.0;
     c = 1.0;
-    //resultado = 3 > a &&! c/2 == 0.5;
-    resultado = 0.0;
+    resultado = 3 > a &&! c/2 == 0.5;
     System.out.println("El resultado del apartado 'e' es: " + resultado);
     //f)
     a = 4.0;
     b = 2.0;
     c = 20.0;
-    //resultado = (a + b)/2 >= 3 || c !=20;
-    resultado = 0.0;
+    resultado = (a + b)/2 >= 3 || c !=20;
     System.out.println("El resultado del apartado 'f' es: " + resultado);
+    */
     //g)
     resultado = 5 + 25 % 2;
     System.out.println("El resultado del apartado 'g' es: " + resultado);
