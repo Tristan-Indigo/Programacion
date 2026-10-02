@@ -26,6 +26,9 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio5.java](/Tema2/Ejercicio5.java) | Programa para pasar de binario a decimal (no completado) |
 | [SumaAleatoria.java](/Tema2/sumaAleatoria.java) | Programa para calcular la suma de 2 numeros aleatorios |
 ## TEMA3-Selecciones
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| [SumaAleatoria.java](/Tema3/sumaAleatoria.java) | Programa para calcular la suma de 2 numeros aleatorios |
 ### Evaluar expresiones
 | Ejercicio | Descripción |
 | --------- | ----------- |
