@@ -18,5 +18,6 @@ public class conversionTemperaturas {
         celsius = sc.nextDouble();
         fahrenheit =(celsius * 9/5) + 32;
         System.out.println(celsius+" grados celsius son "+fahrenheit+" grados fahrenheit");
+		sc.close();
     }
 }

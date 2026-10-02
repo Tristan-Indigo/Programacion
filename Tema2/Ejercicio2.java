@@ -11,5 +11,6 @@ public class Ejercicio2 {
         altura = sc.nextDouble();
         volumen = (1.0/3) * Math.PI * Math.pow(radio, 2) * altura;
         System.out.println("El volumen del cono es: " + volumen);
+        sc.close();
     }
 }

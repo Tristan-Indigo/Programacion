@@ -8,5 +8,6 @@ public class Ejercicio3 {
         mb = sc.nextDouble();
         kb = mb * 1024;
         System.out.println(mb + " Megabytes son " + kb + " Kilobytes");
+        sc.close();
     }
 }

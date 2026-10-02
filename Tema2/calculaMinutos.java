@@ -12,5 +12,6 @@ public class calculaMinutos {
 		minutos = segundos / 60;
 		segundosRestantes = segundos % 60;
 		System.out.println("El nº de minutos es "+minutos+" y el numero de segundos restantes es "+segundosRestantes);
+		sc.close();
 	}
 }

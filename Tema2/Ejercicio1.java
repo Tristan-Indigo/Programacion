@@ -9,5 +9,6 @@ public class Ejercicio1 {
         horasTrabajadas = sc.nextFloat();
         salarioSemanal = (eurosPorHora * horasTrabajadas);
         System.out.println("El salario semanal es de " + salarioSemanal + " euros.");
+        sc.close();
     }
 }
