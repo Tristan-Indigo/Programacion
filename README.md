@@ -28,6 +28,7 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [SumaAleatoria.java](/Tema3/sumaAleatoria.java) | Programa para calcular la suma de 2 numeros aleatorios |
+| [MayorEdad.java](/Tema3/mayorEdad.java) | Programa parta indicar si el usuario es mayor de edad o no |
 ### Evaluar expresiones
 | Ejercicio | Descripción |
 | --------- | ----------- |
