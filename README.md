@@ -24,7 +24,6 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio3.java](/Tema2/Ejercicio3.java) | Programa para pasar de Megabytes a Kilobytes |
 | [Ejercicio4.java](/Tema2/Ejercicio4.java) | Programa para pasar de Kilobytes a Megabytes |
 | [Ejercicio5.java](/Tema2/Ejercicio5.java) | Programa para pasar de binario a decimal (no completado) |
-| [SumaAleatoria.java](/Tema2/sumaAleatoria.java) | Programa para calcular la suma de 2 numeros aleatorios |
 ## TEMA3-Selecciones
 | Ejercicio | Descripción |
 | --------- | ----------- |
