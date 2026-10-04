@@ -29,8 +29,9 @@ Repositorio del módulo de programación de DAW
 | --------- | ----------- |
 | [SumaAleatoria.java](/Tema3/sumaAleatoria.java) | Programa para calcular la suma de 2 numeros aleatorios |
 | [MayorEdad.java](/Tema3/mayorEdad.java) | Programa para indicar si el usuario es mayor de edad o no |
-| [NumeroMayor.java](/Tema3/numeroMayor.java) | Programa para indicar cual de 2 numero es mayor que el otro (no completado) |
-| [NumeroMenor.java](/Tema3/numeroMenor.java) | Programa para indicar cual de 3 numero es el menor (no completado) |
+| [NumeroMayor.java](/Tema3/numeroMayor.java) | Programa para indicar cual de 2 numero es el mayor |
+| [NumeroMenor.java](/Tema3/numeroMenor.java) | Programa para indicar cual de 3 numero es el menor |
+| [menorAMayor.java](/Tema3/menorAMayor.java) | Programa para ordenar 3 numeros de menor a mayor |
 ### Evaluar expresiones
 | Ejercicio | Descripción |
 | --------- | ----------- |
