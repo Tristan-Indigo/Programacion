@@ -10,12 +10,10 @@ public class numeroMayor {
         numero2 = sc.nextDouble();
         if (numero1 > numero2) {
             System.out.println(numero1 + " es el numero mayor");
+        } else if (numero2 > numero1) {
+            System.out.println(numero2 + " es el numero mayor");
         } else {
-            if (numero2 > numero1) {
-                System.out.println(numero2 + " es el numero mayor");
-            } else {
-                System.out.println("Por favor, la proxima vez introduzca numeros diferentes");
-            }
+            System.out.println("Por favor, la proxima vez introduzca numeros diferentes");
         }
         sc.close();
     }

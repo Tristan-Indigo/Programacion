@@ -11,11 +11,11 @@ public class numeroMenor {
         numero2 = sc.nextDouble();
         System.out.print("Introduzca el tercer numero: ");
         numero3 = sc.nextDouble();
-        if (numero1 < numero2 && numero1 < numero3 && numero1 != numero2 && numero1 != numero3) {
+        if (numero1 < numero2 && numero1 < numero3) {
             System.out.println(numero1 + " es el numero menor");
-        } else if (numero2 < numero1 && numero2 < numero3 && numero2 != numero1 && numero2 != numero3) {
+        } else if (numero2 < numero1 && numero2 < numero3) {
             System.out.println(numero2 + " es el numero menor");
-        } else if (numero3 < numero1 && numero3 < numero2 && numero3 != numero1 && numero3 != numero2) {
+        } else if (numero3 < numero1 && numero3 < numero2) {
             System.out.println(numero3 +" es el numero menor");
         } else {
             System.out.println("Por favor, la proxima vez no introduzca numeros repetidos");
