@@ -32,6 +32,7 @@ Repositorio del módulo de programación de DAW
 | [NumeroMayor.java](/Tema3/numeroMayor.java) | Programa para indicar cual de 2 numero es el mayor |
 | [NumeroMenor.java](/Tema3/numeroMenor.java) | Programa para indicar cual de 3 numero es el menor |
 | [menorAMayor.java](/Tema3/menorAMayor.java) | Programa para ordenar 3 numeros de menor a mayor |
+| [Ejercicio1.java](/Tema3/Ejercicio1.java) | Programa para indicar cual es la primera asignatura de cada día de la semana |
 ### Evaluar expresiones
 | Ejercicio | Descripción |
 | --------- | ----------- |
