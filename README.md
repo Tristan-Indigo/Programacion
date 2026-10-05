@@ -35,4 +35,4 @@ Repositorio del módulo de programación de DAW
 ### Evaluar expresiones
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [Actividad1.java](/Tema3/Evaluar_expresiones/Actividad1.java) | Declarar varias expresiones (no completado) |
+| [Actividad1.java](/Tema3/Evaluar_expresiones/Actividad1.java) | Declarar varias expresiones |
