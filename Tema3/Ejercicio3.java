@@ -31,7 +31,19 @@ public class Ejercicio3 {
             System.out.println("La proxima vez introduzca un dia y un mes que existan");
         } else if (dia >= 29 && mes == 2) {
             System.out.println("Febrero no tiene mas de 28 dias en un año no bisiesto.");
-            System.out.println("la proxima vez no elijas un dia mas del 28 si luego vas a elejir febrero");
+            System.out.println("La proxima vez no elijas un dia mas del 28 si luego vas a elejir febrero");
+        } else if (dia >= 31 && mes == 4) {
+            System.out.println("Abril no tiene mas de 30 dias en un año.");
+            System.out.println("La proxima vez no elijas un dia mas del 30 si luego vas a elejir abril");
+        } else if (dia >= 31 && mes == 6) {
+            System.out.println("Junio no tiene mas de 30 dias en un año.");
+            System.out.println("La proxima vez no elijas un dia mas del 30 si luego vas a elejir junio");
+        } else if (dia >= 31 && mes == 9) {
+            System.out.println("Septiembre no tiene mas de 30 dias en un año.");
+            System.out.println("La proxima vez no elijas un dia mas del 30 si luego vas a elejir septiembre");
+        } else if (dia >= 31 && mes == 11) {
+            System.out.println("Noviembre no tiene mas de 30 dias en un año.");
+            System.out.println("La proxima vez no elijas un dia mas del 30 si luego vas a elejir noviembre");
         } else if ((dia >= 21 && mes == 3) || (dia <= 19 && mes == 4)) {
             System.out.println("Tu signo es Aries");
         } else if ((dia >= 20 && dia <=30 && mes == 4) || (dia <= 20 && mes == 5)) {
