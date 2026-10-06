@@ -1,9 +1,6 @@
 import java.util.Scanner;
 public class numeroDivisiblePor2Y3 {
     public static void main(String[] args) {
-        //Programa que verifica si un número es divisible por 2 y 3,
-        //si un número es divisible por 2 ó 3,
-        //y si un número es divisible por 2 ó 3 pero no por ambos
         int numero1 = 0;
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca un número entero: ");
