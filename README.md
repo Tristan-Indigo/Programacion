@@ -24,6 +24,11 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio3.java](/Tema2/Ejercicio3.java) | Programa para pasar de Megabytes a Kilobytes |
 | [Ejercicio4.java](/Tema2/Ejercicio4.java) | Programa para pasar de Kilobytes a Megabytes |
 | [Ejercicio5.java](/Tema2/Ejercicio5.java) | Programa para pasar de binario a decimal (no completado) |
+### Evaluar expresiones
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| [Actividad1.java](/Tema3/Evaluar_expresiones/Actividad1.java) | Declarar varias expresiones |
+| [Actividad2.java](/Tema3/Evaluar_expresiones/Actividad2.java) | Declarar varias expresiones |
 ## TEMA3-Selecciones
 | Ejercicio | Descripción |
 | --------- | ----------- |
@@ -37,8 +42,3 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio1.java](/Tema3/Ejercicio1.java) | Programa para indicar cual es la primera asignatura de cada día de la semana |
 | [Ejercicio2.java](/Tema3/Ejercicio2.java) | Programa para decir buenos dias, tardes y noches |
 | [Ejercicio3.java](/Tema3/Ejercicio3.java) | Programa para decir el horoscopo |
-### Evaluar expresiones
-| Ejercicio | Descripción |
-| --------- | ----------- |
-| [Actividad1.java](/Tema3/Evaluar_expresiones/Actividad1.java) | Declarar varias expresiones |
-| [Actividad2.java](/Tema3/Evaluar_expresiones/Actividad2.java) | Declarar varias expresiones |
