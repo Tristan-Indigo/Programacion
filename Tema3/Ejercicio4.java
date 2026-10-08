@@ -2,11 +2,12 @@ import java.util.Scanner;
 public class Ejercicio4 {
     public static void main(String[] args) {
         int original = 0;
+        int numero = 0;
         int inverso = 0;
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca un numero entero positivo y menor de 6 cifras: ");
         original = sc.nextInt();
-        int numero = original;
+        numero = original;
         if ((original / 10000) >= 10) {
             System.out.println("La proxima vez introduzca un numero menor de 6 cifras");
         } else if (original < 0) {
