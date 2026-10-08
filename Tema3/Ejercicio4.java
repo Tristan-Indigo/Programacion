@@ -13,7 +13,7 @@ public class Ejercicio4 {
         } else if (original < 0) {
             System.out.println("La proxima vez introduzca un numero positivo");
         } else {
-            //usare un bucle porque el ejercicio lo recomendo, aunque los bucles no se den en este tema (aparte que pereza hacerlo sin bucle)
+            //usare un bucle porque el ejercicio lo ha recomendado, aunque los bucles no se den en este tema (aparte que pereza hacerlo sin bucle)
             while (numero != 0) {
                 inverso = inverso * 10 + numero % 10;
                 numero = numero / 10;
