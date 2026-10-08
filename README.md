@@ -42,3 +42,4 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio1.java](/Tema3/Ejercicio1.java) | Programa para indicar cual es la primera asignatura de cada día de la semana |
 | [Ejercicio2.java](/Tema3/Ejercicio2.java) | Programa para decir buenos dias, tardes y noches |
 | [Ejercicio3.java](/Tema3/Ejercicio3.java) | Programa para decir el horoscopo |
+| [Ejercicio4.java](/Tema3/Ejercicio4.java) | Programa para decir si un numero positivo menor de 6 cifras es capicúa o no |
