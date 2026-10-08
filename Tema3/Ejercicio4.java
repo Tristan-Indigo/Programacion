@@ -4,14 +4,14 @@ public class Ejercicio4 {
         int original = 0;
         int inverso = 0;
         Scanner sc = new Scanner(System.in);
-        System.out.print("Introduzca un numero entero positivo menor de 6 cifras: ");
+        System.out.print("Introduzca un numero entero positivo y menor de 6 cifras: ");
         original = sc.nextInt();
         int numero = original;
         if ((original / 10000) >= 10) {
             System.out.println("La proxima vez introduzca un numero menor de 6 cifras");
         } else if (original < 0) {
             System.out.println("La proxima vez introduzca un numero positivo");
-        } if (((original / 10000) < 10) && (original > 0)) {
+        } else {
             //usare un bucle porque el ejercicio lo recomendo, aunque los bucles no se den en este tema (aparte que pereza hacerlo sin bucle)
             while (numero != 0) {
                 inverso = inverso * 10 + numero % 10;
