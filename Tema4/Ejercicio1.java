@@ -1,8 +1,7 @@
 import java.util.Scanner;
 public class Ejercicio1 {
     public static void main(String[] args) {
-        //Introduce 5 notas desde teclado y muestra
-        //para cada nota,
+        //Introduce 5 notas desde teclado y muestra para cada nota,
         //la nota redondeada con un decimal al alza,
         //a la baja,
         //la nota truncada en las unidades
