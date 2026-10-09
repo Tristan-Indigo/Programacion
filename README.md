@@ -43,4 +43,4 @@ Repositorio del módulo de programación de DAW
 | [Ejercicio2.java](/Tema3/Ejercicio2.java) | Programa para decir buenos dias, tardes y noches |
 | [Ejercicio3.java](/Tema3/Ejercicio3.java) | Programa para decir el horoscopo |
 | [Ejercicio4.java](/Tema3/Ejercicio4.java) | Programa para decir si un numero positivo menor de 6 cifras es capicúa o no |
-| [Ejercicio5.java](/Tema3/Ejercicio5.java) | (no completado) |
+| [Ejercicio5.java](/Tema3/Ejercicio5.java) | Programa para calcular la nota de un trimestre de una asignatura (no completado) |
