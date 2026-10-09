@@ -19,7 +19,7 @@ Repositorio del módulo de programación de DAW
 | --------- | ----------- |
 | [CalculaMinutos.java](/Tema2/calculaMinutos.java) | Programa para calcular los minutos |
 | [ConversionTemperaturas.java](/Tema2/conversionTemperaturas.java) | Programa para calcular la temperatura |
-| [Ejercicio1.java](/Tema2/Ejercicio1.java) | Programa para calcular el salario semanal de una persona que gana 12 euros al dia |
+| [Ejercicio1.java](/Tema2/Ejercicio1.java) | Programa para calcular el salario semanal de una persona que gana 12 euros al día |
 | [Ejercicio2.java](/Tema2/Ejercicio2.java) | Programa para calcular el volumen de un cono |
 | [Ejercicio3.java](/Tema2/Ejercicio3.java) | Programa para pasar de Megabytes a Kilobytes |
 | [Ejercicio4.java](/Tema2/Ejercicio4.java) | Programa para pasar de Kilobytes a Megabytes |
@@ -32,19 +32,19 @@ Repositorio del módulo de programación de DAW
 ## TEMA3-Selecciones
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [SumaAleatoria.java](/Tema3/sumaAleatoria.java) | Programa para calcular la suma de 2 numeros aleatorios |
+| [SumaAleatoria.java](/Tema3/sumaAleatoria.java) | Programa para calcular la suma de 2 números aleatorios |
 | [MayorEdad.java](/Tema3/mayorEdad.java) | Programa para indicar si el usuario es mayor de edad o no |
 | [NumeroMayor.java](/Tema3/numeroMayor.java) | Programa para indicar cual de 2 numero es el mayor |
 | [NumeroMenor.java](/Tema3/numeroMenor.java) | Programa para indicar cual de 3 numero es el menor |
-| [menorAMayor.java](/Tema3/menorAMayor.java) | Programa para ordenar 3 numeros de menor a mayor |
+| [menorAMayor.java](/Tema3/menorAMayor.java) | Programa para ordenar 3 números de menor a mayor |
 | [NumeroDivisiblePor2Y3.java](/Tema3/numeroDivisiblePor2Y3.java) | Programa para decir si un numero es divisible por 2 y/o 3 |
 | [AñoBisiesto.java](/Tema3/añoBisiesto.java) | Programa para decir si un año es bisiesto o no |
 | [Ejercicio1.java](/Tema3/Ejercicio1.java) | Programa para indicar cual es la primera asignatura de cada día de la semana |
-| [Ejercicio2.java](/Tema3/Ejercicio2.java) | Programa para decir buenos dias, tardes y noches |
-| [Ejercicio3.java](/Tema3/Ejercicio3.java) | Programa para decir el horoscopo |
+| [Ejercicio2.java](/Tema3/Ejercicio2.java) | Programa para decir buenos días, tardes y noches |
+| [Ejercicio3.java](/Tema3/Ejercicio3.java) | Programa para decir el horóscopo |
 | [Ejercicio4.java](/Tema3/Ejercicio4.java) | Programa para decir si un numero positivo menor de 6 cifras es capicúa o no |
 | [Ejercicio5.java](/Tema3/Ejercicio5.java) | Programa para calcular la nota de un trimestre de una asignatura |
 ## Tema 4-Métodos matemáticos, caracteres y cadenas
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| N/A | N/A |
+| [Ejercicio1.java](/Tema4/Ejercicio1.java) | Programa para calcular la nota media final y ordena 5 notas de menor a mayor |
