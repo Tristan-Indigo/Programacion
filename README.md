@@ -47,4 +47,5 @@ Repositorio del módulo de programación de DAW
 ## Tema 4-Métodos matemáticos, caracteres y cadenas
 | Ejercicio | Descripción |
 | --------- | ----------- |
+| [BarajaFrancesa.java](/Tema4/barajaFrancesa.java) | (no terminado) |
 | [Ejercicio1.java](/Tema4/Ejercicio1.java) | Programa para calcular la nota media final y ordena 5 notas de menor a mayor (no terminado) |
