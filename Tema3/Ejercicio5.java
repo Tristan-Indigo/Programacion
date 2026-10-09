@@ -1,36 +1,27 @@
 import java.util.Scanner;
 public class Ejercicio5 {
     public static void main(String[] args) {
-        //Calcula la nota de un trimestre de la asignatura Programación.
-        //El programa pedirá las dos notas que ha sacado el alumno en los dos primeros controles.
-        //Si la media de los dos controles da un número mayor o igual a 5, el alumno está aprobado y se mostrará la media.
-        //En caso de que la media sea un número menor que 5,
-        //el alumno habrá tenido que hacer el examen de recuperación que se califica como apto o no apto,
-        //por tanto se debe preguntar al usuario ¿Cuál ha sido el resultado de la recuperación? (apto/no apto).
-        //Si el resultado de la recuperación es apto, la nota será un 5; en caso contrario,
-        //se mantiene la nota media anterior.
-        int nota1 = 0;
-        int nota2 = 0;
-        int media = 0;
-        //String recuperacion = "hola";
-        //String apto = "apto";
-        //String noApto = "no apto";
+        double nota1 = 0.0;
+        double nota2 = 0.0;
+        double media = 0.0;
+        String recuperacion;
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca la nota de tu primer control: ");
-        nota1 = sc.nextInt();
+        nota1 = sc.nextDouble();
         System.out.print("Introduzca la nota de tu segundo control: ");
-        nota2 = sc.nextInt();
+        nota2 = sc.nextDouble();
         media = (nota1 + nota2) / 2;
         if (media >= 5) {
             System.out.println("Estas aprobado con un " + media);
         } else if (media < 5) {
             System.out.print("Introduzca la nota de el resultado de la recuperación (apto o no apto): ");
-            //recuperacion = sc.nextLine();
-            //if (recuperacion == apto) {
-            //    System.out.println("La nota del trimestre es 5");
-            //} else if (recuperacion == noApto) {
-            //    System.out.println("La nota del trimestre es " + media);
-            //}
+            recuperacion = sc.next();
+            if (recuperacion.equalsIgnoreCase ("apto")) {
+                System.out.println("La nota del trimestre es 5");
+            } else {
+                //en clase no se hizo la comprobacion de poner algo que no es "apto" o "no apto"
+                System.out.println("La nota del trimestre es " + media);
+            }
         }
         sc.close();
     }
