@@ -49,4 +49,5 @@ Repositorio del módulo de programación de DAW
 | --------- | ----------- |
 | [BarajaFrancesa.java](/Tema4/barajaFrancesa.java) | Programa para indicar una carta al azar de la baraja francesa |
 | [QuinielaRandom.java](/Tema4/quinielaRandom.java) | Programa para hacer una quiniela |
+| [CaracteresRandom.java](/Tema4/caracteresRandom.java) | Programa para decir 1 palabra con 5 caracteres aleatorios en mayúscula y esos mismos en minúscula |
 | [Ejercicio1.java](/Tema4/Ejercicio1.java) | Programa para calcular la nota media final y ordena 5 notas de menor a mayor (no terminado) |
