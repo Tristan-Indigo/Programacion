@@ -6,17 +6,17 @@ public class quinielaRandom {
         int numero = 0;
         int intentos = 0;
         while (intentos != 15) {
+            intentos++;
             numero = (int)(Math.random() * 6) + 1;
             if (numero == 6) {
-                System.out.println("2");
+                System.out.println("Intento numero " + intentos + ": 2");
             } else if (numero*2 >= 6) {
-                System.out.println("X");
+                System.out.println("Intento numero " + intentos + ": X");
             } else if (numero*3 >= 6) {
-                System.out.println("1");
+                System.out.println("Intento numero " + intentos + ": 1");
             } else {
-                System.out.println("No gano nada");
+                System.out.println("Intento numero " + intentos + ": No gano nada");
             }
-            intentos++;
         }
     }
 }
