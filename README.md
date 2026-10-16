@@ -53,5 +53,6 @@ Repositorio del módulo de programación de DAW
 | [CaracteresRandomV1.java](/Tema4/caracteresRandomV1.java) | Programa para decir 1 palabra con 5 caracteres repetidos entre #, $, €, & |
 | [CaracteresRandomV2.java](/Tema4/caracteresRandomV2.java) | Programa para decir 1 palabra con 5 caracteres repetidos entre \*, \-, \=, \., \|, \@ |
 | [PartirNumero.java](/Tema4/partirNumero.java) | Programa para partir un numero dependiendo de la posición que se indique |
-| [InsertarNumero.java](/Tema4/insertarNumero.java) | Programa para insertar un digito dependiendo de la posición que se indique dentro de un numero|
+| [InsertarNumero.java](/Tema4/insertarNumero.java) | Programa para insertar un digito dependiendo de la posición que se indique dentro de un numero |
+| [InsertarSimbolo.java](/Tema4/insertarSimbolo.java) | Programa para insertar los símbolos <> en mitad de una cadena indicada |
 | [Ejercicio1.java](/Tema4/Ejercicio1.java) | Programa para calcular la nota media final y ordena 5 notas de menor a mayor (no terminado) |
