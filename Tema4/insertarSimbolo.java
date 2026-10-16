@@ -17,7 +17,6 @@ public class insertarSimbolo {
             segundaParte = cadena.substring(mitad);
             resultado = primeraParte + "<>" + segundaParte;
             System.out.println("La cadena resultante es: " + resultado);
-           
         }
         sc.close();
     }
