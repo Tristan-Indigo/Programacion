@@ -1,21 +1,19 @@
 import java.util.Scanner;
 public class dividirPalabraDesdeA {
     public static void main(String[] args) {
-        //Programa que divida una palabra desde la primera A que encuentre.
         String cadena = "";
-        int dividir = 0;
         String primeraParte = "";
         String siguienteParte = "";
-        String resultado = "";
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca una palabra: ");
         cadena = sc.next();
-        /*
-        primeraParte = cadena.substring(0,dividir);
-        siguienteParte = cadena.substring(dividir, dividir);
-        resultado = primeraParte + "<>" + siguienteParte;
-        System.out.println("La cadena resultante es: " + resultado);
-        */
+        if (cadena.indexOf("a") <= 0) {
+            System.out.println("La cadena resultante es: " + cadena);
+        } else {
+            primeraParte = cadena.substring(0,cadena.indexOf("a"));
+            siguienteParte = cadena.substring(cadena.indexOf("a"));
+            System.out.println("La cadena resultante es: " + primeraParte + " " + siguienteParte);
+        }
         sc.close();
     }
 }
