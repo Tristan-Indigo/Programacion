@@ -64,3 +64,4 @@ Repositorio del módulo de programación de DAW
 | --------- | ----------- |
 | [Cohete.java](/Tema5/cohete.java) | Programa para hacer una cuenta atrás desde 5 mediante un bucle (no terminado) |
 | [TablaDelNueve.java](/Tema5/tablaDelNueve.java) | Programa para decir la tabla de multiplicar del 9 mediante for |
+| [ConvertirNota.java](/Tema5/convertirNota.java) | Programa para convertir una nota numérica en su calificación textual usando if/else if |
