@@ -1,11 +1,18 @@
 import java.util.Scanner;
 public class batalla {
     public static void main(String[] args) {
-        //Hacer batalla entre un enemigo y un jugador
-        //Añadir critico random (para enemigo y jugador)
-        //Añadir ataques (normal y fuerte)
-        //Vida juador = 20
-        //Vida enemigo = 20
+        //Hecho:
+            //Añadir critico random (para enemigo y jugador)
+            //Añadir ataques (normal y fuerte)
+        //A medias:
+            //Hacer batalla entre un enemigo y un jugador
+        //No hecho
+            //Añadir objetos (curar)
+            //Añadir huir
+            //Añadir cooldown en ataque fuerte
+        //Informacion:
+            //Vida juador = 20
+            //Vida enemigo = 20
         int vidaEnemigo = 20;
         int vidaJugador = 20;
         String eleccion;
