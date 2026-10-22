@@ -7,7 +7,9 @@ public class batalla {
         //A medias:
             //Hacer batalla entre un enemigo y un jugador
         //No hecho
-            //Añadir objetos (curar)
+            //Añadir mas armas
+            //Añadir objetos consumibles
+            //Añadir objetos equipables
             //Añadir huir
             //Añadir cooldown en ataque fuerte
         //Informacion:
