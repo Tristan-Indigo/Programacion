@@ -63,4 +63,4 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [Cohete.java](/Tema5/cohete.java) | Programa para hacer una cuenta atrás desde 5 mediante un bucle (no terminado) |
-| [Cohete.java](/Tema5/cohete.java) | Programa para decir la tabla de multiplicar del 9 mediante for |
+| [TablaDelNueve.java](/Tema5/tablaDelNueve.java) | Programa para decir la tabla de multiplicar del 9 mediante for |
