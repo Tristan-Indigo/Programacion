@@ -9,6 +9,7 @@ public class batalla {
         //A medias:
             //Hacer batalla entre un enemigo y un jugador
         //No hecho
+            //Añadir probabilidad de fallar al intentar huir
             //Añadir opcion de usar objetos
             //Añadir mas armas
             //Añadir objetos consumibles
