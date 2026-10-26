@@ -62,7 +62,8 @@ Repositorio del módulo de programación de DAW
 ## Tema 5-Bucles
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [Cohete.java](/Tema5/cohete.java) | Programa para hacer una cuenta atrás desde 5 mediante un bucle|
+| [Cohete.java](/Tema5/cohete.java) | Programa para hacer una cuenta atrás desde 5 mediante un bucle |
 | [TablaDelNueve.java](/Tema5/tablaDelNueve.java) | Programa para decir la tabla de multiplicar del 9 mediante for |
 | [ConvertirNota.java](/Tema5/convertirNota.java) | Programa para convertir una nota numérica en su calificación textual usando if/else if (no terminado) |
+| [Escalera.java](/Tema5/escalera.java) | Programa para decir una escalera de números hasta llegar a 4 |
 | [PredecirMatricula.java](/Tema5/predecirMatricula.java) | Programa para saber en cuantos años se duplicara el valor de una matricula |
