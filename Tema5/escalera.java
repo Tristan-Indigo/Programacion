@@ -1,6 +1,7 @@
 public class escalera {
     public static void main(String[] args) {
-        for (int i = 1; i <= 4; i++) {
+        final int MAX = 4;
+        for (int i = 1; i <= MAX; i++) {
             for (int j = 1; j <= i; j++) {
                 System.out.print(j + " ");
             }
