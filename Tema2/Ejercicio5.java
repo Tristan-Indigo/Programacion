@@ -8,8 +8,18 @@
 import java.util.Scanner;
 public class Ejercicio5 {
     public static void main(String[] args) {
+        int numero = 0;
+        int comprobarDigito = 1;
         Scanner sc = new Scanner(System.in);
-        System.out.print("Introduzca el numero binario: ");
+        System.out.print("Introduzca el numero binario de 8 cifras: ");
+        numero = sc.nextInt();
+        if (numero >= Math.pow(10, 8)) {
+            System.out.println("No puedes introducir un numero de mas de 8 digitos");
+        } else if (numero < Math.pow(10, 7)) {
+            System.out.println("No puedes introducir un numero de menos de 8 digitos");
+        } else {
+            System.out.println(numero);
+        }
         sc.close();
     }
 }
