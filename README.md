@@ -66,7 +66,7 @@ Repositorio del módulo de programación de DAW
 | [TablaDelNueve.java](/Tema5/tablaDelNueve.java) | Programa para decir la tabla de multiplicar del 9 mediante for |
 | [ConvertirNota.java](/Tema5/convertirNota.java) | Programa para convertir una nota numérica en su calificación textual usando if/else if (no terminado) |
 | [Escalera.java](/Tema5/escalera.java) | Programa para decir una escalera de números hasta llegar a 4 |
-| [EscaleraInversa.java](/Tema5/escaleraInversa.java) | Programa para decir una escalera inversa de números hasta llegar a 4 (no terminado) |
+| [EscaleraInversa.java](/Tema5/escaleraInversa.java) | Programa para decir una escalera inversa de números hasta llegar a 4 |
 | [EscaleraPiramide.java](/Tema5/escaleraPiramide.java) | Programa para decir una piramide de números hasta llegar a 4 (no terminado) |
 | [NumerosPrimos.java](/Tema5/numerosPrimos.java) | Programa para decir los números primos entre el 1 y 50 (no terminado) |
 | [SumarHasta0.java](/Tema5/sumarHasta0.java) | Programa para hacer sumas hasta que el usuario escriba 0 (no terminado) |
