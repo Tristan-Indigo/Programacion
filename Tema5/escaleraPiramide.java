@@ -1,9 +1,5 @@
 public class escaleraPiramide {
-        public static void main(String[] args) { 
-        //    1
-        //   212
-        //  32123
-        // 4321234
+    public static void main(String[] args) { 
         final int MAX = 4;
         for (int i = 1; i <= MAX; i++) {
             for (int j = MAX * 3 - i * 3; j > 0; j--) {
