@@ -67,4 +67,5 @@ Repositorio del módulo de programación de DAW
 | [ConvertirNota.java](/Tema5/convertirNota.java) | Programa para convertir una nota numérica en su calificación textual usando if/else if (no terminado) |
 | [Escalera.java](/Tema5/escalera.java) | Programa para decir una escalera de números hasta llegar a 4 |
 | [NumerosPrimos.java](/Tema5/numerosPrimos.java) | Programa para decir los números primos entre el 1 y 50 (no terminado) |
+| [SumarHasta0.java](/Tema5/sumarHasta0.java) | Programa para hacer sumas hasta que el usuario escriba 0 (no terminado) |
 | [PredecirMatricula.java](/Tema5/predecirMatricula.java) | Programa para saber en cuantos años se duplicara el valor de una matricula |
