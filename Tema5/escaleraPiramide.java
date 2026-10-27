@@ -1,9 +1,21 @@
 public class escaleraPiramide {
-        public static void main(String[] args) {
-        //Escribe un programa que imprima esta escalera de números (bucles anidados): 
+        public static void main(String[] args) { 
         //    1
         //   212
         //  32123
         // 4321234
+        final int MAX = 4;
+        for (int i = 1; i <= MAX; i++) {
+            for (int j = MAX * 3 - i * 3; j > 0; j--) {
+                System.out.print(" ");
+            }
+            for (int k = i; k >= 1; k--) {
+                System.out.print(k + "  ");
+            }
+            for (int l = 2; l <= i; l++) {
+                System.out.print(l + "  ");
+            }
+            System.out.println();
+        }
     }
 }
