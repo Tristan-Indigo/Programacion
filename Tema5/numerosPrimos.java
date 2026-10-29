@@ -1,13 +1,21 @@
 public class numerosPrimos {
     public static void main(String[] args) {
-        //Escribe un programa que imprima todos los números primos del 1 al 50, cada uno en su línea.
-        int numero = 1;
-        double divisor = 2.0;
+        //El 1 no es primo.
+        int numero = 2;
+        boolean esPrimo;
+        int comprobar;
         while (numero <= 50) {
-            while (divisor <= 50 && ((numero/divisor) * Math.pow(10, numero)) != 0) {
-                divisor++;
+            comprobar = 2;
+            esPrimo = true;
+            while (comprobar < numero) {
+                if (numero % comprobar == 0) {
+                    esPrimo = false;
+                }
+                comprobar++;
             }
-            System.out.println(numero);
+            if (esPrimo == true) {
+                System.out.println(numero + " es un numero primo.");
+            }
             numero++;
         }
     }
