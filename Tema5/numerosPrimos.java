@@ -4,7 +4,8 @@ public class numerosPrimos {
         int numero = 2;
         boolean esPrimo;
         int comprobar;
-        while (numero <= 50) {
+        final int MAX = 50;
+        while (numero <= MAX) {
             comprobar = 2;
             esPrimo = true;
             while (comprobar < numero) {
