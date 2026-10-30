@@ -70,4 +70,6 @@ Repositorio del módulo de programación de DAW
 | [EscaleraPiramide.java](/Tema5/escaleraPiramide.java) | Programa para decir una piramide de números hasta llegar a 4 |
 | [NumerosPrimos.java](/Tema5/numerosPrimos.java) | Programa para decir los números primos entre el 1 y 50 |
 | [SumarHasta0.java](/Tema5/sumarHasta0.java) | Programa para hacer sumas hasta que el usuario escriba 0 (no terminado) |
+| [NumerosPares.java](/Tema5/numerosPares.java) | Programa para mostrar los números pares entre 1 y un número (no terminado) |
+| [ContarCifras.java](/Tema5/contarCifras.java) | Programa para calcular las cifras de un número entero positivo sin convertirlo a texto. (no terminado) |
 | [PredecirMatricula.java](/Tema5/predecirMatricula.java) | Programa para saber en cuantos años se duplicara el valor de una matricula |
