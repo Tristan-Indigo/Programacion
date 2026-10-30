@@ -72,4 +72,5 @@ Repositorio del módulo de programación de DAW
 | [SumarHasta0.java](/Tema5/sumarHasta0.java) | Programa para hacer sumas hasta que el usuario escriba 0 |
 | [NumerosPares.java](/Tema5/numerosPares.java) | Programa para mostrar los números pares entre 1 y un número |
 | [ContarCifras.java](/Tema5/contarCifras.java) | Programa para calcular las cifras de un número entero positivo sin convertirlo a texto |
+| [RectanguloAsteriscos.java](/Tema5/rectanguloAsteriscos.java) | Programa para dibujar un rectángulo con * |
 | [PredecirMatricula.java](/Tema5/predecirMatricula.java) | Programa para saber en cuantos años se duplicara el valor de una matricula |
