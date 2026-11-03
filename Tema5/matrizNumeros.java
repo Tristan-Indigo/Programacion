@@ -1,9 +1,26 @@
 import java.util.Scanner;
 public class matrizNumeros {
     public static void main(String[] args) {
-        //Pide el número de filas y columnas y muestra una matriz en la que
-        //cada posición contenga el número de su fila multiplicado por el número de su columna.
+        int filas = 0;
+        int columnas = 0;
+        int contarFilas = 0;
+        int contarColumnas = 0;
         Scanner sc = new Scanner(System.in);
+        System.out.print("Introduzca el numero de filas: ");
+        filas = sc.nextInt();
+        System.out.print("Introduzca el numero de columnas: ");
+        columnas = sc.nextInt();
+        while (contarFilas < filas) {
+            while (contarColumnas < columnas) {
+                System.out.printf("%-4d \t", (contarColumnas + 1) * (contarFilas + 1));
+                contarColumnas++;
+            }
+            if (contarFilas < filas) {
+                contarColumnas = 0;
+            }
+            System.out.println();
+            contarFilas++;
+        }
         sc.close();
     }
 }
