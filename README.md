@@ -76,3 +76,7 @@ Repositorio del módulo de programación de DAW
 | [CuadradoNumerico.java](/Tema5/cuadradoNumerico.java) | Programa para dibujar un rectángulo con la consecución entre 1 y un numero |
 | [MatrizNumeros.java](/Tema5/matrizNumeros.java) | Programa para mostrar una matriz de números |
 | [PredecirMatricula.java](/Tema5/predecirMatricula.java) | Programa para saber en cuantos años se duplicara el valor de una matricula de 10000 € si la matrícula aumenta 7% cada año |
+## Tema 6-Metodos
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
