@@ -79,4 +79,4 @@ Repositorio del módulo de programación de DAW
 ## Tema 6-Metodos
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [FuncionesMatematicas.java](/Tema6/funcionesMatematicas.java) | Programa con una biblioteca de diferentes funciones matematicas (no terminado) |
+| [FuncionesMatematicas.java](/Tema6/funcionesMatematicas.java) | Programa con una biblioteca de diferentes funciones matematicas |
