@@ -64,7 +64,7 @@ Repositorio del módulo de programación de DAW
 | --------- | ----------- |
 | [Cohete.java](/Tema5/cohete.java) | Programa para hacer una cuenta atrás desde 5 mediante un bucle |
 | [TablaDelNueve.java](/Tema5/tablaDelNueve.java) | Programa para decir la tabla de multiplicar del 9 mediante for |
-| [ConvertirNota.java](/Tema5/convertirNota.java) | Programa para convertir una nota numérica en su calificación textual usando if/else if (no terminado) |
+| [ConvertirNota.java](/Tema5/convertirNota.java) | Programa para convertir una nota numérica en su calificación textual usando if/else if |
 | [Escalera.java](/Tema5/escalera.java) | Programa para decir una escalera de números hasta llegar a 4 |
 | [EscaleraInversa.java](/Tema5/escaleraInversa.java) | Programa para decir una escalera inversa de números hasta llegar a 4 |
 | [EscaleraPiramide.java](/Tema5/escaleraPiramide.java) | Programa para decir una piramide de números hasta llegar a 4 |
