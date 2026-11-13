@@ -80,7 +80,7 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [FuncionesMatematicas.java](/Tema6/funcionesMatematicas.java) | Programa con una biblioteca de diferentes funciones matematicas |
-| [NumeroMaximo.java.java](/Tema6/numeroMaximo.java.java) | Programa con una función que indica cual de 2 números es mayor |
+| [NumeroMaximo.java](/Tema6/numeroMaximo.java) | Programa con una función que indica cual de 2 números es mayor |
 ## Tema 7-Matrices Unidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
