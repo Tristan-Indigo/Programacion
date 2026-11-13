@@ -88,3 +88,39 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | N/A | N/A |
+## Tema 9-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 10-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 11-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 12-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 13-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 14-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 15-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 16-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 17-???
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
