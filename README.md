@@ -82,6 +82,7 @@ Repositorio del módulo de programación de DAW
 | [FuncionesMatematicas.java](/Tema6/funcionesMatematicas.java) | Programa con una biblioteca de diferentes funciones matematicas |
 | [NumeroMaximo.java](/Tema6/numeroMaximo.java) | Programa con una función que indica cual de 2 números es mayor |
 | [NumeroMaximoV2.java](/Tema6/numeroMaximoV2.java) | Programa con una función que indica cual de 3 números es mayor |
+| [CalcularCilindro.java](/Tema6/calcularCilindro.java) | Programa con una función que calcula el volumen de un cilindro |
 ## Tema 7-Matrices Unidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
