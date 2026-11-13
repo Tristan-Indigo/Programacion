@@ -80,3 +80,11 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [FuncionesMatematicas.java](/Tema6/funcionesMatematicas.java) | Programa con una biblioteca de diferentes funciones matematicas |
+## Tema 7-Matrices Unidimensionales
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
+## Tema 8-Matrices Multidimensionales
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| N/A | N/A |
