@@ -16,28 +16,29 @@ public class divisoresPrimos {
         }
         sc.close();
     }
-    public static int calcular(int pedirNumero) {
-        int comprobar = 2;
+    public static String calcular(int pedirNumero) {
+        int numero = 2;
         boolean esPrimo;
-        int divisor = 2;
-        int imprimirNumero = 0;
-        while (pedirNumero > divisor) {
+        int comprobar;
+        String todo = "";
+        while (numero <= pedirNumero) {
+            comprobar = 2;
             esPrimo = true;
-            if (pedirNumero % divisor == 0) {
-                while (comprobar < divisor && esPrimo == true) {
-                    if (divisor % comprobar == 0) {
-                        esPrimo = false;
-                    }
-                    comprobar++;
+            while (comprobar < numero) {
+                if (numero % comprobar == 0) {
+                    esPrimo = false;
                 }
-                if (esPrimo == true) {
-                    imprimirNumero = divisor;
-                    System.out.println(imprimirNumero);
+                comprobar++;
+            }
+            if (esPrimo == true) {
+                if (pedirNumero % numero == 0) {
+                    System.out.println(numero);
+                } else {
+                    esPrimo = false;
                 }
             }
-            divisor++;
-            comprobar++;
+            numero++;
         }
-        return imprimirNumero;  
+        return todo;
     }
 }
