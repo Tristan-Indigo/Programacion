@@ -87,7 +87,8 @@ Repositorio del módulo de programación de DAW
 ## Tema 7-Matrices Unidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| N/A | N/A |
+| [cienNumerosAscendente.java](/Tema7/cienNumerosAscendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden ascendente |
+| [cienNumerosDescendente.java](/Tema7/cienNumerosDescendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden descendente |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
