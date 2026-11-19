@@ -91,7 +91,7 @@ Repositorio del módulo de programación de DAW
 | [cienNumerosDescendente.java](/Tema7/cienNumerosDescendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden descendente |
 | [cienNumerosPares.java](/Tema7/cienNumerosPares.java) | Programa que muestra un array con los números pares enteros entre el 1 y el 100 en orden ascendente |
 | [cienNumerosImpares.java](/Tema7/cienNumerosImpares.java) | Programa que muestra un array con los números impares enteros entre el 1 y el 100 en orden ascendente |
-| [cienNumerosPrimos.java](/Tema7/cienNumerosPrimos.java) | Programa con una función/método con array con los números primos enteros entre el 1 y el 100 en orden ascendente (no terminado) |
+| [cienNumerosPrimos.java](/Tema7/cienNumerosPrimos.java) | Programa con una función/método que dice cuales números son primos o no en un array con los 100 primeros números enteros en orden ascendente |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
