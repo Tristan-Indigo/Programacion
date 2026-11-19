@@ -80,10 +80,10 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [FuncionesMatematicas.java](/Tema6/funcionesMatematicas.java) | Programa con una biblioteca de diferentes funciones matematicas |
-| [NumeroMaximo.java](/Tema6/numeroMaximo.java) | Programa con una función que indica cual de 2 números es mayor |
-| [NumeroMaximoV2.java](/Tema6/numeroMaximoV2.java) | Programa con una función que indica cual de 3 números es mayor |
-| [CalcularCilindro.java](/Tema6/calcularCilindro.java) | Programa con una función que calcula el volumen de un cilindro |
-| [DivisoresPrimos.java](/Tema6/divisoresPrimos.java) | Programa con una función que calcula los divisores primos que tiene |
+| [NumeroMaximo.java](/Tema6/numeroMaximo.java) | Programa con una función/metodo que indica cual de 2 números es mayor |
+| [NumeroMaximoV2.java](/Tema6/numeroMaximoV2.java) | Programa con una función/metodo que indica cual de 3 números es mayor |
+| [CalcularCilindro.java](/Tema6/calcularCilindro.java) | Programa con una función/metodo que calcula el volumen de un cilindro |
+| [DivisoresPrimos.java](/Tema6/divisoresPrimos.java) | Programa con una función/metodo que calcula los divisores primos que tiene |
 ## Tema 7-Matrices Unidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
@@ -91,6 +91,7 @@ Repositorio del módulo de programación de DAW
 | [cienNumerosDescendente.java](/Tema7/cienNumerosDescendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden descendente |
 | [cienNumerosPares.java](/Tema7/cienNumerosPares.java) | Programa que muestra un array con los números pares enteros entre el 1 y el 100 en orden ascendente |
 | [cienNumerosImpares.java](/Tema7/cienNumerosImpares.java) | Programa que muestra un array con los números impares enteros entre el 1 y el 100 en orden ascendente |
+| [cienNumerosPrimos.java](/Tema7/cienNumerosPrimos.java) | Programa con una función/método con array con los números primos enteros entre el 1 y el 100 en orden ascendente (no terminado) |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
