@@ -4,12 +4,12 @@ public class cienNumerosPrimos {
     }
     public static String comprobarPrimo () {
         String todo = "";
-        int listaNumeros[] = new int[100];
-        int contar = 2;
+        int listaNumeros[] = new int[101];
+        int contar = 0;
         boolean esPrimo;
         int comprobar;
         final int MAX = 101;
-        for (int numero = 2; numero < MAX; numero++) {
+        for (int numero = 1; numero < MAX; numero++) {
             esPrimo = true;
             comprobar = 2;
             while (comprobar < numero) {
@@ -18,9 +18,11 @@ public class cienNumerosPrimos {
                 }
                 comprobar++;
             }
-            if (contar > 1 && esPrimo == true) {
-                listaNumeros[numero] = numero;
-                System.out.println("| " + listaNumeros[numero] + " es un numero primo | ");
+            listaNumeros[numero] = numero;
+            if (contar >= 2 && esPrimo == true) {
+                System.out.println("| " + listaNumeros[numero] + " es un numero primo.");
+            } else {
+                System.out.println("| " + listaNumeros[numero] + " no es un numero primo.");
             }
             contar++;
         }
