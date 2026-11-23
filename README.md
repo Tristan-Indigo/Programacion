@@ -87,11 +87,12 @@ Repositorio del módulo de programación de DAW
 ## Tema 7-Matrices Unidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [cienNumerosAscendente.java](/Tema7/cienNumerosAscendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden ascendente |
-| [cienNumerosDescendente.java](/Tema7/cienNumerosDescendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden descendente |
-| [cienNumerosPares.java](/Tema7/cienNumerosPares.java) | Programa que muestra un array con los números pares enteros entre el 1 y el 100 en orden ascendente |
-| [cienNumerosImpares.java](/Tema7/cienNumerosImpares.java) | Programa que muestra un array con los números impares enteros entre el 1 y el 100 en orden ascendente |
-| [cienNumerosPrimos.java](/Tema7/cienNumerosPrimos.java) | Programa con una función/método que dice cuales números son primos o no en un array con los 100 primeros números enteros en orden ascendente |
+| [CienNumerosAscendente.java](/Tema7/cienNumerosAscendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden ascendente |
+| [CienNumerosDescendente.java](/Tema7/cienNumerosDescendente.java) | Programa que muestra un array con los 100 primeros números enteros en orden descendente |
+| [CienNumerosPares.java](/Tema7/cienNumerosPares.java) | Programa que muestra un array con los números pares enteros entre el 1 y el 100 en orden ascendente |
+| [CienNumerosImpares.java](/Tema7/cienNumerosImpares.java) | Programa que muestra un array con los números impares enteros entre el 1 y el 100 en orden ascendente |
+| [CienNumerosPrimos.java](/Tema7/cienNumerosPrimos.java) | Programa con una función/método que dice cuales números son primos o no en un array con los 100 primeros números enteros en orden ascendente |
+| [DiezNumerosInversos.java](/Tema7/diezNumerosInversos.java) | Programa que muestra el orden inverso de 10 númerods de un array |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
