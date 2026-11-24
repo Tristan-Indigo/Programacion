@@ -20,7 +20,7 @@ public class calculaDiezNumeros {
         sc.close();
     }
     public static Double[] operacion(Double[] lista, String eleccion) {
-        Double resultado[] = new Double[lista.length];
+        Double resultado[] = new Double[1];
         int contar = 1;
         resultado[0] = lista[0];
         System.out.println("numeros insertados: ");
