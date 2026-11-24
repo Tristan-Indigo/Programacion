@@ -95,6 +95,7 @@ Repositorio del módulo de programación de DAW
 | [DiezNumerosInversos.java](/Tema7/diezNumerosInversos.java) | Programa que muestra el orden inverso de 10 números de un array |
 | [CalculaDiezNumeros.java](/Tema7/calculaDiezNumeros.java) | Programa que muestra una operación matemática de 10 números de un array |
 | [SumarCienNumerosPares.java](/Tema7/sumarCienNumerosPares.java) | Programa que muestra la suma de los 100 primeros números pares |
+| [MediaDiezNumeros.java](/Tema7/mediaDiezNumeros.java) | Programa que muestra la media de 10 números de un array |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
