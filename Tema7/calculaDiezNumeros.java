@@ -5,7 +5,7 @@ public class calculaDiezNumeros {
         Double lista1[] = new Double[10];
         int contar = 1;
         String eleccion = "";
-        System.out.print("Elija una operación: ");
+        System.out.println("Elija una operación (suma, resta, multiplicacion, division): ");
         eleccion = sc.next();
         if (eleccion.equalsIgnoreCase("suma") || eleccion.equalsIgnoreCase("resta") || eleccion.equalsIgnoreCase("multiplicacion") || eleccion.equalsIgnoreCase("division")) {
             System.out.println("Inserte diez numeros: ");
