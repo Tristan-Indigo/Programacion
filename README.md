@@ -96,6 +96,7 @@ Repositorio del módulo de programación de DAW
 | [CalculaDiezNumeros.java](/Tema7/calculaDiezNumeros.java) | Programa que muestra una operación matemática de 10 números de un array |
 | [SumarCienNumerosPares.java](/Tema7/sumarCienNumerosPares.java) | Programa que muestra la suma de los 100 primeros números pares |
 | [MediaDiezNumeros.java](/Tema7/mediaDiezNumeros.java) | Programa que muestra la media de 10 números de un array |
+| [DiezNumerosAscendente.java](/Tema7/diezNumerosAscendente.java) | Programa que muestra un array con 10 números en orden ascendente |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
