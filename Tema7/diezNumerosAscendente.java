@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class diezNumerosAscendente {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final int MAX = 10;
         Double lista1[] = new Double[MAX];
