@@ -14,9 +14,7 @@ public class diezNumerosAscendente {
         sc.close();
     }
     public static Double[] ordenarAscendente(Double[] lista, final int MAX) {
-        Double resultado[] = new Double[1];
         int contar = 1;
-        resultado[0] = 0.0;
         System.out.print("Los " + MAX + " numeros ordenados ascendentemente son: ");
         //El metodo Arrays.sort ordena ascendentemente automaticamente con solo 1 linea de codigo
         java.util.Arrays.sort(lista);
@@ -26,6 +24,6 @@ public class diezNumerosAscendente {
         }
         System.out.print(lista[MAX - 2] + " y ");
         System.out.print(lista[MAX - 1]);
-        return resultado;
+        return lista;
     }
 }
