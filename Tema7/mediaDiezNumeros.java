@@ -5,7 +5,7 @@ public class mediaDiezNumeros {
         final int MAX = 10;
         Double lista1[] = new Double[MAX];
         int contar = 1;
-        System.out.println("Inserte diez notas: ");
+        System.out.println("Inserte " + MAX + " notas: ");
         while (contar <= MAX) {
             lista1[contar - 1] = sc.nextDouble();
             contar++;
@@ -21,7 +21,7 @@ public class mediaDiezNumeros {
             resultado[0] += lista[contar - 1];
             contar++;
         }
-        System.out.println(resultado[0] / MAX);
+        System.out.println("La media de esas notas es: " + resultado[0] / MAX);
         return resultado;
     }
 }
