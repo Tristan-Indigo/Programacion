@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class diezNumerosAscendente {
     public static void main(String[] args) {
+        //Falta hacer que cuando el "MAX" sea menor de 2 funcione
         Scanner sc = new Scanner(System.in);
         final int MAX = 10;
         Double lista1[] = new Double[MAX];
