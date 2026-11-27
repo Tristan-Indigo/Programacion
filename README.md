@@ -99,6 +99,7 @@ Repositorio del módulo de programación de DAW
 | [DiezNumerosAscendente.java](/Tema7/diezNumerosAscendente.java) | Programa que muestra un array con 10 números en orden ascendente |
 | [FusionArrays.java](/Tema7/fusionArrays.java) | Programa que separa un array de 10 números en 2 arrays de 5 y luego los junta en un tercer array de 10 números |
 | [MultiplicacionArray.java](/Tema7/multiplicacionArray.java) | Programa que guarda 5 números en un array y muestra la multiplicación de esos números por 2 en otro array |
+| [MultiplicacionArrayV2.java](/Tema7/multiplicacionArrayV2.java) | Programa que guarda 5 números en un array, guarda la multiplicación de esos números por 2 en otro array y muestra el resultado de la multiplicación ordenada ascendentemente en otro array |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
