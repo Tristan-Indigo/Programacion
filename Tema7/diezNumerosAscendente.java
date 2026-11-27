@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class diezNumerosAscendente {
     public static void main(String[] args) {
-        //Falta hacer que cuando el "MAX" sea menor de 2 funcione
         Scanner sc = new Scanner(System.in);
         final int MAX = 10;
         Double lista1[] = new Double[MAX];
@@ -19,11 +18,13 @@ public class diezNumerosAscendente {
         System.out.print("Los " + MAX + " numeros ordenados ascendentemente son: ");
         //El metodo Arrays.sort ordena ascendentemente automaticamente con solo 1 linea de codigo
         java.util.Arrays.sort(lista);
-        while (contar <= MAX - 2) {
+        while (contar <= MAX - 2 && MAX > 2) {
             System.out.print(lista[contar - 1] + ", ");
             contar++;
         }
-        System.out.print(lista[MAX - 2] + " y ");
+        if (MAX > 1) {
+            System.out.print(lista[MAX - 2] + " y ");
+        }
         System.out.print(lista[MAX - 1]);
         return lista;
     }
