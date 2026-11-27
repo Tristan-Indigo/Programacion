@@ -97,7 +97,8 @@ Repositorio del módulo de programación de DAW
 | [SumarCienNumerosPares.java](/Tema7/sumarCienNumerosPares.java) | Programa que muestra la suma de los 100 primeros números pares |
 | [MediaDiezNumeros.java](/Tema7/mediaDiezNumeros.java) | Programa que muestra la media de 10 números de un array |
 | [DiezNumerosAscendente.java](/Tema7/diezNumerosAscendente.java) | Programa que muestra un array con 10 números en orden ascendente |
-| [FusionArrays.java](/Tema7/fusionArrays.java) | Programa que separa un array de 10 números en 2 arrays de 5 y luego los junta en un tercer array de 10 números (no terminado) |
+| [FusionArrays.java](/Tema7/fusionArrays.java) | Programa que separa un array de 10 números en 2 arrays de 5 y luego los junta en un tercer array de 10 números |
+| [MultiplicacionArray.java](/Tema7/multiplicacionArray.java) | Programa que guarda 5 números en un array y muestra la multiplicación de esos números en otro array |
 ## Tema 8-Matrices Multidimensionales
 | Ejercicio | Descripción |
 | --------- | ----------- |
