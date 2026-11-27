@@ -18,7 +18,7 @@ public class diezNumerosAscendente {
         System.out.print("Los " + MAX + " numeros ordenados ascendentemente son: ");
         //El metodo Arrays.sort ordena ascendentemente automaticamente con solo 1 linea de codigo
         java.util.Arrays.sort(lista);
-        while (contar <= MAX && MAX > 2) {
+        while (contar <= MAX - 2 && MAX > 2) {
             System.out.print(lista[contar - 1] + ", ");
             contar++;
         }
